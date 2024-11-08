@@ -34,7 +34,7 @@ CSRF_COOKIE_SECURE = True
 
 ALLOWED_HOSTS = [
     '127.0.0.1',
-    'andreyts.pythonanywhere.com',
+    'andreytsvla.pythonanywhere.com',
     #'Andreytsvl.github.io',
 ]
 
